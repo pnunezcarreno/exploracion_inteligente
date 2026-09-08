@@ -1,6 +1,6 @@
 # Factores asociados a la supervivencia de pasajeros del Titanic
 
-Repositorio del proyecto desarrollado para la asignatura **MCDI503 - Exploración Inteligente para la Ciencia de Datos**. El trabajo corresponde al avance sumativo de la Fase 1 y presenta un análisis exploratorio reproducible del conjunto de datos `titanic` disponible en Seaborn.
+Repositorio del proyecto desarrollado para la asignatura **MCDI503 - Exploración Inteligente para la Ciencia de Datos**. El trabajo corresponde al avance del proyecto del curso y presenta un análisis exploratorio reproducible del conjunto de datos `titanic` disponible en Seaborn.
 
 ## Integrantes
 
